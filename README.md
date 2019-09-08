@@ -1,6 +1,4 @@
-# wizardamigos workshop
-module for making wizardamigos themed workshop apps
+# workshop
+how to develop hyper modular web components
 
-A tutorial on how to create your own workshop
-
-https://slides.com/ninabreznik/deck-31e5185f-f1ad-4df9-ad02-848fc564aa50
+[workshop](https://serapath.github.io/workshop-hypermodular-webcomponents/)
