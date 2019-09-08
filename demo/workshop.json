@@ -1,42 +1,19 @@
 {
-  "title": "Buy Bitcoins",
+  "title": "Hypermodular Web Compoennt Development",
   "icon": "./icon.svg",
-  "chat": "https://gitter.im/ethereum/play/~embed",
+  "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
   "lessons": [{
-    "title": "Set up Bitcoin Wallet (Electrum)",
-    "lesson": "https://www.youtube.com/embed/DEH0eoppbyc",
+    "title": "Setup a new github repository",
+    "lesson": "https://www.loom.com/embed/dd0bb51b4c7940d3abf5932cc443aeeb",
     "tool": "",
-    "info": "docs/set-up-bitcoin-wallet.md"
-  },{
-    "title": "Buy Bitcoin on Coinbase",
-    "lesson": "https://www.youtube.com/embed/FPVr59ThnHE",
-    "tool": "https://codesandbox.io/embed/4x4lmpqz1w?fontsize=14",
     "info": [
-      "# buy-bitcoin-on-coinbase.md",
-      "* foo",
-      "* `bar`"
+      "Follow instructions and repeat the lesson yourself",
+      "",
+      "see code example: https://github.com/serapath/input-integer"
     ]
-  },{
-    "title": "Move Bitcoin from Coinbase to Electrum",
-    "lesson": "https://www.youtube.com/embed/9fvDp43rShA",
-    "tool": "",
-    "info": "./docs/move-bitcoin-from-coinbase-to-electrum.md"
-  },{
-    "title": "Backup Electrum Wallet",
-    "lesson": "https://www.youtube.com/embed/Po7Vtl9xOD0",
-    "tool": "https://asdf.com/",
-    "info": "./docs/backup-electrum-wallet.md"
-  },{
-    "title": "Recover Electrum Wallet from a Seed",
-    "lesson": "https://www.youtube.com/embed/y8Id3adVX78",
-    "tool": "",
-    "info": "./docs/recover-electrum-wallet-from-a-seed.md"
   }],
   "needs": [
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction-to-solidity/",
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/"
   ],
   "unlocks": [
-    "https://ninabreznik.github.io/play-workshop-remix/"
   ]
 }
