@@ -1,16 +1,17 @@
 {
-  "name": "wizardamigos-workshop",
-  "version": "0.2.2",
-  "description": "module for making wizardamigos themed workshop apps",
+  "private": true,
+  "name": "workshop-hypermodular-webcomponents",
+  "version": "1.0.0",
+  "description": "how to develop hyper modular web components",
   "main": "src/workshop.js",
   "scripts": {
-    "start": "budo demo/demo.js:bundle.js --title $npm_package_name --ssl --live --open --cors",
+    "start": "budo demo/demo.js:bundle.js --ssl --live --open",
     "build": "browserify demo/demo.js -o bundle.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wizardamigos/wizardamigos-workshop.git"
+    "url": "git+https://github.com/serapath/workshop-hypermodular-webcomponents.git"
   },
   "keywords": [
     "workshop",
@@ -20,11 +21,10 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wizardamigos/wizardamigos-workshop/issues"
+    "url": "https://github.com/serapath/workshop-hypermodular-webcomponents/issues"
   },
-  "homepage": "https://github.com/wizardamigos/wizardamigos-workshop#readme",
+  "homepage": "https://github.com/serapath/workshop-hypermodular-webcomponents#readme",
   "devDependencies": {
-    "belmark": "^2.0.3",
     "budo": "^11.6.0"
   },
   "dependencies": {

@@ -1,0 +1,118 @@
+{
+  "title": "Hypermodular Web Compoennt Development",
+  "icon": "demo/wizard.png",
+  "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
+  "lessons": [{
+    "title": "Setup a new github repository",
+    "lesson": "https://www.loom.com/embed/dd0bb51b4c7940d3abf5932cc443aeeb",
+    "tool": "",
+    "info": [
+      "# 1. Setup a new github repository",
+      "just follow the instructions :-)",
+      "  ",
+      "(You might need to register a github account first)"
+    ]
+  },{
+    "title": "Setup development environment",
+    "lesson": "https://www.loom.com/embed/e27614ea8fa640df8607ea2d3fd0028f",
+    "tool": "",
+    "info": [
+      "# 2. Setup development environment",
+      "just follow the instructions :-)",
+      "  ",
+      "(if you run into problems, try to ask for help using the chat tab)"
+    ]
+  },{
+    "title": "Clone repository, make changes and push them",
+    "lesson": "https://www.loom.com/embed/34331c62b70d4db0a99b08b5ee3d542d",
+    "tool": "",
+    "info": [
+      "# 3. Clone repository, make changes and push them",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Initialize module and install 'dev dependencies'",
+    "lesson": "https://www.loom.com/embed/34331c62b70d4db0a99b08b5ee3d542d",
+    "tool": "",
+    "info": [
+      "# 4. Initialize module and install dependencies",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Setup devtooling and add initial javascript code",
+    "lesson": "https://www.loom.com/embed/a09e94dc952b4e3ca992a894196975de",
+    "tool": "",
+    "info": [
+      "# 5. Setup devtooling and add initial javascript code",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Add first draft of input-integer component and a demo",
+    "lesson": "https://www.loom.com/embed/868875a0f4fb4fe0b70596b4e2758858",
+    "tool": "",
+    "info": [
+      "# 6. Add first draft of input-integer component and a demo",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Install and use 'bel' from npm to refactor component",
+    "lesson": "https://www.loom.com/embed/4eabd82d84cb4213a8d45ece76259359",
+    "tool": "",
+    "info": [
+      "# 7. Install and use 'bel' from npm to refactor component",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Add one-way communication for component to inform container component",
+    "lesson": "https://www.loom.com/embed/8cbbb0f3bf91488dbf84d1345e0177e4",
+    "tool": "",
+    "info": [
+      "# 8. Add one-way communication for component to inform container component",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Manage state of multiple component instances",
+    "lesson": "https://www.loom.com/embed/365c74c6615242f2895560056264b0c1",
+    "tool": "",
+    "info": [
+      "# 9. Manage state of multiple component instances",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  },{
+    "title": "Add two-way communication for container and components to communicate",
+    "lesson": "https://www.loom.com/embed/5cc571074758444e867c355a53094478",
+    "tool": "",
+    "info": [
+      "# 10. Add two-way communication for container and components to communicate",
+      "just follow the instructions :-)",
+      "  ",
+      "**see code example**: https://github.com/serapath/input-integer",
+      "(the code contains the full solution for the entire workshop)"
+    ]
+  }],
+  "needs": [
+  ],
+  "unlocks": [
+  ]
+}
