@@ -1,0 +1,31 @@
+{
+  "name": "my-custom-slider",
+  "version": "0.0.0",
+  "description": "a custom input slider component",
+  "main": "src/my-custom-slider.js",
+  "scripts": {
+    "start": "budo demo/demo.js:bundle.js --title $npm_package_name --force-default-index --open --live --ssl",
+    "build": "browserify --full-paths demo/demo.js > bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/my-custom-slider.git"
+  },
+  "keywords": [
+    "slider",
+    "component"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/my-custom-slider/issues"
+  },
+  "homepage": "https://github.com/serapath/my-custom-slider#readme",
+  "devDependencies": {
+    "budo": "^11.6.3"
+  },
+  "dependencies": {
+    "csjs-inject": "^1.0.1"
+  }
+}
