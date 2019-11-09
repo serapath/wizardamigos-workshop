@@ -20,7 +20,13 @@
       "# 2. Setup development environment",
       "just follow the instructions :-)",
       "  ",
-      "(if you run into problems, try to ask for help using the chat tab)"
+      "(if you run into problems, try to ask for help using the chat tab)",
+      "  ",
+      "### links",
+      "* https://git-scm.com/downloads",
+      "* https://nodejs.org/en/",
+      "* https://www.npmjs.com/",
+      "* https://code.visualstudio.com/"
     ]
   },{
     "title": "Clone repository, make changes and push them",
